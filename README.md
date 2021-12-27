@@ -1,4 +1,4 @@
-Hello, I’m Michael Reigelman | [@mtreigelman](https://twitter.com/MtReigelman)
+Hello, I’m Michael Reigelman | LinkedIn: [@mtreigelman](https://www.linkedin.com/in/mtreigelman/) | Twitter: [@mMtReigelman](https://twitter.com/MtReigelman)
 
 I am currently a Master's Student in Data Science at the University of San Francisco, and will be graduating the summer of 2022. 
 
