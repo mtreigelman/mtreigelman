@@ -83,6 +83,9 @@ Many of my projects from school are private; so if you are curious about any of 
 
 - From a collection of 1.5GB of emails, converted (to feather), cleaned, and analyzed the messages to see if any suspicious trends existed in executive employee communications prior to the Enron bankruptcy filing in 2001. The data was cleaned, formatted and condensed in a python script, while visualizations were generated in a Jupyter Notebook using the MatPlotLib and Skilling libraries. Visualizations include heat maps, bar charts, spring layouts, and kamada layouts.  
 
+###### **Object-Oriented Hash Table Class Creation**
+- Created a python class to perform hash table managment (utilzing __iter__(), __setitem__(), __getitem__(), __contains__(), __repr__, and other functions). This class borrowed code from a word search project to create an object-oriented tool. The previous code also used hash tables, however did not use an object-oriented approach.
+
 <!---
 mtreigelman/mtreigelman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
