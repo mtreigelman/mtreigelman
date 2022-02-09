@@ -4,7 +4,7 @@ I am currently a Master's Student in Data Science at the University of San Franc
 
 In addition to the work I've done for school, I also have an interest in working on:  data visualizations, maps, ML & predition modeling, projects related to coding and music, sports analytics, and autonomous control systems. 
 
-Tool used in my projects include: Python 3.0, Jupyter, PySpark, SciKitLearn, TensorFlow, Plotly, Unix, and Postgres SQL.
+Tool used in my projects include: Python 3.0, Jupyter, PySpark, SciKitLearn, TensorFlow, Pytorch, Plotly, Unix, Postgres SQL, MongoDB.
 
 Many of my projects from school are private; so if you are curious about any of the projects listed below, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mtreigelman/) for more information. 
 
