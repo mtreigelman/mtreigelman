@@ -1,6 +1,6 @@
 Hello, I’m Michael Reigelman | LinkedIn: [@mtreigelman](https://www.linkedin.com/in/mtreigelman/) | Twitter: [@MtReigelman](https://twitter.com/MtReigelman)
 
-I am currently a Master's Student in Data Science at the University of San Francisco, and will be graduating the summer of 2022. 
+I am currently a Master's Student in Data Science at the [University of San Francisco](https://myusf.usfca.edu/arts-sciences/data-science/program-requirements), and will be graduating the summer of 2022. 
 
 In addition to the work I've done for school, I also have an interest in working on:  data visualizations, maps, ML & predition modeling, projects related to coding and music, sports analytics, and autonomous control systems. 
 
