@@ -8,7 +8,11 @@ Tool used in my projects include: Python 3.0, Jupyter, PySpark, SciKitLearn, Ten
 
 Many of my projects from school are private; so if you are curious about any of the projects listed below, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mtreigelman/) for more information. 
 
-## Machine Learning Libraries:  
+## Machine Learning Projects:  
+
+###### **[Kaggle Competition (within USF Cohort)](https://www.kaggle.com/competitions/predicting-implicit-ratings-usfca-2022)**:  
+
+- Predict implicit ratings from four features (whether a user is likely to like/buy a specifc item), using data from this [Booking.com Kaggle competition](https://www.kaggle.com/teresasereno/booking-challenge-data). Placed in the top 10 out of 55 teams. 
 
 ###### **Linear Regression Model Python Library Creation**:  
 
@@ -26,6 +30,27 @@ Many of my projects from school are private; so if you are curious about any of 
 
 - The decision tree project above was revamped to become a Random Forest model library for both classifiers and regressors. Bootstrapping was added to the previous code, and a few new classes were needed to get the same functionality. Again, this was done through python’s object-oriented abilities and allowed for the similar data split, modeling training, accuracy scoring, and speed requirements.  
 
+ 
+ ## Data Science Reports
+ 
+ ###### **K-Means Clustering**:
+ 
+ A detailed notebook discussing topics related to K-Means clustering including: 
+ - What K-means is, and how it works
+ - Practical Applications and Examples
+ - Inadequacies of K-Means
+ - Spectral Clusting
+ - Real World Applications of K-Means
+
+
+
+###### **Feature Imporantance**:
+ 
+ A detailed notebook discussing topics related to Feature Importance using data from the National Football League. Topics include: 
+ - Analysis techniques
+ - Algorithm explaination
+ - Strategies for using feature importance to improve machine learning models
+ - Examples and visualizations
  
 
 ## Data Acquisition Projects: 
