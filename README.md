@@ -31,11 +31,11 @@ Many of my projects from school are private; so if you are curious about any of 
 - The decision tree project above was revamped to become a Random Forest model library for both classifiers and regressors. Bootstrapping was added to the previous code, and a few new classes were needed to get the same functionality. Again, this was done through python’s object-oriented abilities and allowed for the similar data split, modeling training, accuracy scoring, and speed requirements.
  
  
-  ## Data Pipeline Projects
+## Data Pipeline Projects
   
-   ###### **COVID-19, U.S. Depression, & Twitter Relationship Analysis using Machine Learning**:
+###### **COVID-19, U.S. Depression, & Twitter Relationship Analysis using Machine Learning**:
    
-   - In this project I setup a data pipeline moving information from AWS S3 to a MongoDB distributed database. Machine learning analysis was coded in Databricks to understand a variety of questions about how depression was related to COVID-19 cases and tweet sentiments on various topics. A blog post detailing the questions asked and the results found will be published and linked here in the coming days. 
+- In this project I setup a data pipeline moving information from AWS S3 to a MongoDB distributed database. Machine learning analysis was coded in Databricks to understand a variety of questions about how depression was related to COVID-19 cases and tweet sentiments on various topics. A blog post detailing the questions asked and the results found will be published and linked here in the coming days. 
   
  
  ## Data Science Reports
