@@ -21,7 +21,7 @@ Many of my projects from school are private; so if you are curious about any of 
 - Created python libraries that can perform machine learning tasks on structured dataset. These libraries include linear regression, logistic regression, decision tree, and random forest model techniques. These are python object-oriented programming .py files, and allow for hyperparameter tuning.
 
  
-## Data Pipeline Projects
+## Data Pipeline Project
   
 ###### **COVID-19, U.S. Depression, & Twitter Relationship Analysis using Machine Learning**:
    
