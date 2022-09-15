@@ -1,6 +1,6 @@
 Hello, I’m Michael Reigelman | LinkedIn: [@mtreigelman](https://www.linkedin.com/in/mtreigelman/) | Twitter: [@MtReigelman](https://twitter.com/MtReigelman)
 
-I am currently a Master's Student in Data Science at the [University of San Francisco](https://myusf.usfca.edu/arts-sciences/data-science/program-requirements), and will be graduating in the summer of 2022. 
+I am a Data Scientist, with an M.S. from the University of San Francisco. 
 
 In addition to the work I've done for school, I also have an interest in working on: data visualizations, maps, ML & prediction modeling, projects related to coding and music, sports analytics, and autonomous control systems.
 
@@ -16,29 +16,19 @@ Many of my projects from school are private; so if you are curious about any of 
 - Predict implicit ratings from four features (whether a user is likely to like/buy a specifc item), using data from this [Booking.com Kaggle competition](https://www.kaggle.com/teresasereno/booking-challenge-data). Placed in the top 10 out of 55 teams. 
 
 
-###### **Linear Regression Model Python Library Creation**:  
+###### **Machine Learning Python Library Creation**:  
 
-- Created Linear & Logistic, and Ridge & Lasso Regression tools (python libraries) to function similarly to scikit-learn's models. These two tools can fit and predict from a user-defined data set. Loss functions can also be selected via the model’s hyperparameters, and include gradient descent, sigmoid, and log-likelihood functions for all classes. These are python object-oriented programming .py files.
+- Created python libraries that can perform machine learning tasks on structured dataset. These libraries include linear regression, logistic regression, decision tree, and random forest model techniques. These are python object-oriented programming .py files, and allow for hyperparameter tuning.
 
-
-###### **Decision Tree Model Python Library Creation**: 
-
-- Created a decision tree model library for both classifiers and regressors in python object-oriented files. From data provided by the user, these models were able split data, fit train data, and predict and score the test data. Speed requirements were also imposed by the grader and were factored into the code (be able to run multiple tests in under 30 secs).  
-
-
-###### **Random Forest Model Python Library Creation**:  
-
-- The decision tree project above was revamped to become a Random Forest model library for both classifiers and regressors. Bootstrapping was added to the previous code, and a few new classes were needed to get the same functionality. Again, this was done through python’s object-oriented abilities and allowed for the similar data split, modeling training, accuracy scoring, and speed requirements.
- 
  
 ## Data Pipeline Projects
   
 ###### **COVID-19, U.S. Depression, & Twitter Relationship Analysis using Machine Learning**:
    
-- In this project I setup a data pipeline moving information from AWS S3 to a MongoDB distributed database. Machine learning analysis was coded in Databricks to understand a variety of questions about how depression was related to COVID-19 cases and tweet sentiments on various topics. A blog post detailing the questions asked and the results found will be published and linked here in the coming days. 
+- In this project I setup a data pipeline moving information from AWS S3 to a MongoDB distributed database. Machine learning analysis was coded in Databricks to understand a variety of questions about how depression was related to COVID-19 cases and tweet sentiments on various topics. (This pipeline has been archived). 
   
  
- ## Data Science Reports
+ ## Data Science Topic Discussions 
  
  ###### **K-Means Clustering**:
  
@@ -59,11 +49,11 @@ A detailed notebook discussing topics related to Feature Importance using data f
 - Examples and visualizations
  
 
-## Data Acquisition Projects: 
+## Misc. Python Projects: 
 
-###### **Data File Converter**: 
+###### **Data File Type Converter**: 
 
-- Created a series of python scripts to parse .txt files and output a .html, .csv, .json, or .xml file; depending on request. A second set of scripts was created to reverse these changes when required.
+- Created a series of python scripts to parse .txt files and output a .html, .csv, .json, or .xml file; depending on request. A second set of scripts was created to reverse these changes when required. This program can be executed from your command line. 
 
 
 ###### **Word Search Engine**:  
@@ -86,8 +76,6 @@ A detailed notebook discussing topics related to Feature Importance using data f
 
 - Created an AWS server was created to run a temporary website where the user could view the last 100 tweets by any Twitter profile and have a color-coded sentiment score appear: red meaning more negative tweets, while green means positive. The user could also view the top 100 followers of any profile, ranked by the number of followers. These python scripts utilized the VaderSentiment library to get the sentiment scores based on the words in each individual tweet. The Twitter API was also used to pull the tweet content, profile information, followers, and followers’ follower counts. Jinja2 was also used for HTML formatting.
 
-
-## Misc. Python Projects: 
 
 ###### **Naïve Bayes Movie Sentiment Analysis**:  
 
