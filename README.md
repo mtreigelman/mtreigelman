@@ -6,7 +6,7 @@ In addition to the work I've done for school, I also have an interest in working
 
 Tools used in my projects include Python, PySpark, SciKitLearn, Pytorch, Plotly, Unix, SQL , and NoSQL (MongoDB).
 
-Many of my projects described are private; so if you are curious about any of the projects listed below, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mtreigelman/) for more information. 
+Many of my projects described below are private; so if you are curious about any of the projects listed below, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mtreigelman/) for more information. 
 
 
 ## Machine Learning Projects:  
