@@ -6,19 +6,19 @@ In addition to the work I've done for school, I also have an interest in working
 
 Tools used in my projects include Python, PySpark, SciKitLearn, Pytorch, Plotly, Unix, SQL , and NoSQL (MongoDB).
 
-Many of my projects from school are private; so if you are curious about any of the projects listed below, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mtreigelman/) for more information. 
+Many of my projects described are private; so if you are curious about any of the projects listed below, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mtreigelman/) for more information. 
 
 
 ## Machine Learning Projects:  
 
-###### **[Kaggle Competition (within USF Cohort)](https://www.kaggle.com/competitions/predicting-implicit-ratings-usfca-2022)**:  
+###### **[User Rating Prediction Kaggle Competition](https://www.kaggle.com/competitions/predicting-implicit-ratings-usfca-2022)**:  
 
 - Predict implicit ratings from four features (whether a user is likely to like/buy a specifc item), using data from this [Booking.com Kaggle competition](https://www.kaggle.com/teresasereno/booking-challenge-data). Placed in the top 10 out of 55 teams. 
 
 
 ###### **Machine Learning Python Library Creation**:  
 
-- Created python libraries that can perform machine learning tasks on structured dataset. These libraries include linear regression, logistic regression, decision tree, and random forest model techniques. These are python object-oriented programming .py files, and allow for hyperparameter tuning.
+- Created python libraries that can perform machine learning tasks on structured datasets. These libraries include linear regression, logistic regression, decision tree, and random forest model techniques. These are python object-oriented programming .py files, and allow for hyperparameter tuning.
 
  
 ## Data Pipeline Project
