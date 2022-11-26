@@ -1,12 +1,10 @@
 Hello, I’m Michael Reigelman | LinkedIn: [@mtreigelman](https://www.linkedin.com/in/mtreigelman/) | Twitter: [@MtReigelman](https://twitter.com/MtReigelman)
 
-I am a Data Scientist, with an M.S. from the University of San Francisco. 
+I am a Data Scientist (M.S.) and an Aerospace Engineer (B.S.), who have beein in the work force for 7+ years. This GitHub page describes various projects I have completed relating to data science, machine learning, data pipeline building and data visualization topics. Please feel free to contact me for more information on any of these projects. 
 
-In addition to the work I've done for school, I also have an interest in working on: data visualizations, maps, ML & prediction modeling, projects related to coding and music, sports analytics, and autonomous control systems.
+In addition to the work I've done professionally and in school, I also have an interest in working on: data visualizations, maps, ML & prediction modeling, projects related to coding and music, sports analytics, and autonomous control systems.
 
-Tools used in my projects include Python, PySpark, SciKitLearn, Pytorch, Plotly, Unix, SQL , and NoSQL (MongoDB).
-
-Many of my projects described below are private; so if you are curious about any of the projects listed below, please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mtreigelman/) for more information. 
+Tools used in include Python, PySpark, SciKitLearn, Pytorch, Plotly, Unix, SQL , and NoSQL (MongoDB).
 
 
 ## Machine Learning Projects:  
